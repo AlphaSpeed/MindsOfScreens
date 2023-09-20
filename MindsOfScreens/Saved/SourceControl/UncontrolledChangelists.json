@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/andreasjorgensen/Documents/Unreal Projects/MindsOfScreens/MindsOfScreens/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
+				"/Users/andreasjorgensen/Documents/Unreal Projects/MindsOfScreens/MindsOfScreens/Content/Maps/Screens.umap",
 				"D:/UE5 Projects/MindsOfScreens/MindsOfScreens/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/UE5 Projects/MindsOfScreens/MindsOfScreens/Content/Maps/Screens.umap",
 				"D:/UE5 Projects/MindsOfScreens/MindsOfScreens/Content/Scripts/VideoPlayer.uasset",
